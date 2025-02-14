@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Daniel Lee and I ama Data Science student at the University of Michigan at Ann-Arbor!
+My name is Daniel Lee and I am a Data Science student at the University of Michigan at Ann-Arbor!
 
 <!--
 **dqniell/dqniell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
