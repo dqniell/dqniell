@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi There! My name is daniel lee.
+-----
+# :postbox: About Me
+My name is Daniel and I am a Data Science student!
 
-<!--
-**dqniell/dqniell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class Daniel
+{
+  private int age = 19;
+  public String[] traits = new String[] { "hungry", "cool", "bubbly" };
+  public String[] hobbies = new String[] { "Coding!", "Basketball", "Reading", "Sleeping" };
+}
+```
 
-Here are some ideas to get you started:
+# :round_pushpin: What Am I Doing?
+- :clipboard: Currently I am:
+  - Self-teaching AI / Machine Learning
+  - Grinding LeetCode
+  - Working on TrainSense!
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
+
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=vscode,pycharm,github,figma,eclipse&theme=dark)](https://skillicons.dev)
