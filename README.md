@@ -14,9 +14,9 @@ public class Daniel
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
-  - Self-teaching AI / Machine Learning
-  - Grinding LeetCode
-  - Working on TrainSense!
+  - self teaching machine learning, building projects, learning springboot
+  - tackling leetcode
+  - working on TrainSense!
 -----
 
 # Tech Stack
