@@ -7,8 +7,8 @@ My name is Daniel and I am a Data Science student!
 public class Daniel
 {
   private int age = 19;
-  public String[] traits = new String[] { "hungry", "cool", "bubbly" };
-  public String[] hobbies = new String[] { "Coding!", "Basketball", "Reading", "Sleeping" };
+  public String[] traits = new String[] { "hungry", "cool", "curious" };
+  public String[] hobbies = new String[] { "Coding!", "Basketball", "Reading" };
 }
 ```
 
@@ -16,7 +16,7 @@ public class Daniel
 - :clipboard: Currently I am:
   - self teaching machine learning, building projects, learning springboot
   - tackling leetcode
-  - working on TrainSense!
+  - working on spotlight!
 -----
 
 # Tech Stack
