@@ -1,12 +1,12 @@
 ### Hi There! My name is daniel lee.
 -----
 # :postbox: About Me
-My name is Daniel and I am a Data Science student!
+My name is Daniel and I am a Computer Science student!
 
 ```java
 public class Daniel
 {
-  private int age = 19;
+  private int age = 20;
   public String[] traits = new String[] { "hungry", "cool", "curious" };
   public String[] hobbies = new String[] { "Coding!", "Basketball", "Reading" };
 }
@@ -14,9 +14,7 @@ public class Daniel
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
-  - self teaching machine learning, building projects, learning springboot
-  - tackling leetcode
-  - working on spotlight!
+  - research! 
 -----
 
 # Tech Stack
